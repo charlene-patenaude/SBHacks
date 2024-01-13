@@ -6,6 +6,13 @@
     "action": {
       "default_popup": "plantFacts.html",
       "default_icon": "plantIcon.png" 
-    }
+    },
+    
+    "icons": { 
+        "128": "plantIcon.png"
+    },
+
+    "permissions": ["activeTab"] 
+    
   }
 
