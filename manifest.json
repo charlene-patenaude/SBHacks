@@ -12,6 +12,8 @@
         "128": "plantIcon.png"
     },
 
+
+
     "permissions": ["activeTab"] 
     
   }
